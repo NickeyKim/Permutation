@@ -1,0 +1,5 @@
+/Users/nakhoekim/Desktop/Permutation/Permutation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nakhoekim/Desktop/Permutation/Permutation/bin/Debug/Permutation.exe.mdb
+/Users/nakhoekim/Desktop/Permutation/Permutation/bin/Debug/Permutation.exe
+/Users/nakhoekim/Desktop/Permutation/Permutation/obj/x86/Debug/Permutation.exe
+/Users/nakhoekim/Desktop/Permutation/Permutation/obj/x86/Debug/Permutation.exe.mdb
